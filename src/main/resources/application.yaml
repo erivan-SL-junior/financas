@@ -1,3 +1,12 @@
+kind: Application
 spring:
   application:
-    name: demo
+    name: financas
+  docker:
+    compose:
+      enabled: false
+  datasource:
+    url: jdbc:postgresql://localhost:5432/financas
+    username: ${POSTGRES_USERNAME}
+    password: ${POSTGRES_PASSWORD}
+    driver-class-name: org.postgresql.Driver
