@@ -1,5 +1,7 @@
-package com.financas.demo.occurrence;
+package com.financas.demo.occurrence.controller;
 
+import com.financas.demo.occurrence.entity.OccurrenceEntity;
+import com.financas.demo.occurrence.service.OccurrenceService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

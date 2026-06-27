@@ -1,5 +1,7 @@
-package com.financas.demo.event;
+package com.financas.demo.event.service;
 
+import com.financas.demo.event.entity.EventEntity;
+import com.financas.demo.event.repository.EventRepository;
 import org.springframework.stereotype.Service;
 
 @Service

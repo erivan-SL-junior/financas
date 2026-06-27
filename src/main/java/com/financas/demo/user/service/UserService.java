@@ -1,5 +1,7 @@
-package com.financas.demo.user;
+package com.financas.demo.user.service;
 
+import com.financas.demo.user.entity.UserEntity;
+import com.financas.demo.user.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 @Service

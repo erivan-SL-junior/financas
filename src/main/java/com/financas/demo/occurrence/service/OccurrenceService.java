@@ -1,5 +1,7 @@
-package com.financas.demo.occurrence;
+package com.financas.demo.occurrence.service;
 
+import com.financas.demo.occurrence.entity.OccurrenceEntity;
+import com.financas.demo.occurrence.repository.OccurrenceRepository;
 import org.springframework.stereotype.Service;
 
 @Service

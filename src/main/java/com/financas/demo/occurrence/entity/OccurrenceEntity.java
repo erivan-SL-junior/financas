@@ -1,4 +1,4 @@
-package com.financas.demo.occurrence;
+package com.financas.demo.occurrence.entity;
 
 import jakarta.persistence.*;
 

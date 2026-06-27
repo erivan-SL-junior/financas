@@ -1,4 +1,4 @@
-package com.financas.demo.event;
+package com.financas.demo.event.entity;
 
 import jakarta.persistence.*;
 

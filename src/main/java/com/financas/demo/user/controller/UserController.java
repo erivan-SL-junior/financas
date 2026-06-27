@@ -1,5 +1,6 @@
-package com.financas.demo.user;
+package com.financas.demo.user.controller;
 
+import com.financas.demo.user.service.UserService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

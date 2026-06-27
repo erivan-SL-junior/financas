@@ -1,5 +1,7 @@
-package com.financas.demo.event;
+package com.financas.demo.event.controller;
 
+import com.financas.demo.event.service.EventService;
+import com.financas.demo.event.entity.EventEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

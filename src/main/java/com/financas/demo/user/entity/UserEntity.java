@@ -1,4 +1,4 @@
-package com.financas.demo.user;
+package com.financas.demo.user.entity;
 
 import jakarta.persistence.*;
 
